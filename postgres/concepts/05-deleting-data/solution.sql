@@ -1,0 +1,2 @@
+-- Your fix goes here. Then run ./check.sh
+-- Change the database so support's one DELETE (naive.sql) does the right thing. Don't delete Lena here yourself.

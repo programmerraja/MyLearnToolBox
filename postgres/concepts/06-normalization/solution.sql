@@ -1,0 +1,2 @@
+-- Your fix goes here. Then run ./check.sh
+-- Create the tables from "Your task" in notes.md and move the data from booking_lines into them.

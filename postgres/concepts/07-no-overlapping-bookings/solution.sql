@@ -1,0 +1,2 @@
+-- Your fix goes here. Then run ./check.sh
+-- Change the database so it can never hold two confirmed bookings for the same stylist at overlapping times.

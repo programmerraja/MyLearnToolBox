@@ -1,0 +1,2 @@
+-- Your fix goes here. Then run ./check.sh
+-- 1. Clean the existing rows by the rules in notes.md.  2. Make the database refuse bad rows from now on.

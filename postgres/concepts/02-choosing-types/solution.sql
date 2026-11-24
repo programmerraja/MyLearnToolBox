@@ -1,0 +1,2 @@
+-- Your fix goes here. Then run ./check.sh
+-- Change the payments columns so money is exact and each payment time is the real moment it happened.

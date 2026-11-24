@@ -1,0 +1,2 @@
+-- Your fix goes here. Then run ./check.sh
+-- Create the one bookings table from "Your task" in notes.md and move both salons' bookings into it.
